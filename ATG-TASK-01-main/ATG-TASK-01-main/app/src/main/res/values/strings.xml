@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ATG Intern Task 1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sourabh Kumar Verma</string>
+    <string name="nav_header_subtitle">1906286@kiit.ac.in</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="img_desc">Image Des</string>
+</resources>
